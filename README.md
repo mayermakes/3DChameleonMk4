@@ -2,7 +2,7 @@ Welcome to the 3DChameleon 4 Color Changer Source Respository
 
 Please use this as a basis for your own multi color solution, whether that be commerical or private.  The whole idea of the 3DChameleon is to bring color printing to everyone.  Use this, learn from it, improve it, share it... make 3D printing beautiful!
 
-This project is 100% open source using the MIT Open Source license.
+This project is 100% open source using the MIT Open Source license.  The original Tinkercad files are here: https://www.tinkercad.com/things/4nptaDc06M6-3dchameleon-40-current-version
 
 Copyright 2024 William J. Steele
 
