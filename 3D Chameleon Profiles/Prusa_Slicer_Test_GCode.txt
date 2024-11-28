@@ -1,0 +1,111 @@
+; - 3D Chameleon Tool{next_extruder} -
+
+;begin switch from extruder {previous_extruder} to extruder #{next_extruder}
+M117 Unloading Tool [previous_extruder]
+
+G91 ; set motion to relative
+
+;----------- EDIT THE COMMAND BELOW ---------------
+
+G0 X90 Y215 F5000
+
+; this is the holding position for all future motions 
+; it is the point 3mm short of the button press
+; and is the only location you need to edit to tell
+; the system wehre your button is.
+
+; note: place the axis your button on 3mm short of the press
+;       place the axis your button is not on in the middle
+;       of the build plate.  example button is on Y axis
+;       the X axis is placed in the middle at 90
+
+;--------------------------------------------------
+
+M82 ; turn absolute distances for the extruder
+
+; unload extruder {previous_extruder}
+G92 E0
+
+; cool (and size) in 1.8mm tube
+G0 E-50 F2000 ; quickly retract the filament to shape it
+G0 E-80 F600; slowly allow it to cool
+
+G0 E1 F2000 ; blob elimination
+
+; back to tip size
+G0 E-50 F2000 ; quickly retract the filament to shape it
+G0 E-80 F600; slowly allow it to cool
+
+G0 E1 F2000 ; blob elimination
+G0 E-10 F2000 ; quickly retract the filament to shape it
+G0 E1 F2000 ; quickly ram the filament to shape it
+G0 E-10 F2000 ; quickly retract the filament to shape it
+G0 E1 F2000 ; quickly ram the filament to shape it
+
+; back to 1.8 constriction
+G0 E-50 F2000 ; quickly retract the filament to shape it
+G0 E-80 F100; slowly allow it to cool
+
+; forging in Y adapter (adjust for extruder)
+G0 E-170 F2000 ; quickly retract the filament to shape it
+G0 E-110 F2000 ; quickly ram the filament to shape it
+G0 E-170 F2000 ; quickly retract the filament to shape it
+G0 E-110 F2000 ; quickly ram the filament to shape it
+
+; retract it back out of the Y adapter
+;G92 E0
+;G0 E-80 F2000; quickly retract it back out 
+G92 E0
+G0 E-50 F2000; quickly retract it back out 
+
+
+; load extruder #{next_extruder}
+M117 Loading Tool T{next_extruder}
+
+; always reset to extruder 0
+;G0 X0 Y0 F2000 ; holding pattern 1mm short
+G0 X3 Y3 F300 ; press the button
+G4 P1300 ; dewll for 1.3 seconds
+G0 X-3 Y-3 ; back off the button
+G4 S7 wait for it to happen
+
+; press the button for each extruder (1,2,3)
+
+{if next_extruder>0}
+G0 X3 Y3 F300 ; press the button
+G4 P300 ; dewll for .3 seconds
+G0 X-3 Y-3 F300 ; back off the button
+G4 S2; wait for it to happen
+{endif}
+
+{if next_extruder>1}
+G0 X3 Y3 F300 ; press the button
+G4 P300 ; dewll for .3 seconds
+G0 X-3 Y-3 F300 ; back off the button
+G4 S2; wait for it to happen
+{endif}
+
+{if next_extruder>2}
+G0 X3 Y3 F300 ; press the button
+G4 P300 ; dewll for .3 seconds
+G0 X-3 Y-3 F300 ; back off the button
+G4 S2 ; wait for it to happen
+{endif}
+
+; - 3DC Process Tool {next_extruder} -
+
+; reload filament into extruder
+G92 E0
+G0 E60 F2000
+G92 E0
+G0 E60 F2000
+G92 E0
+G0 E50 F2000
+G92 E0
+
+G90 ; set motion to absolute
+
+M83 ; turn relative distances for the extruder
+
+M117 3D Chameleon Tool T{next_extruder}
+
