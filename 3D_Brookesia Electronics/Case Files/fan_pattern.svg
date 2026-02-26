@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="40.8mm" height="40.8mm" viewBox="0 0 40.8 40.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Pad" transform="translate(20.400000,20.400000) scale(1,-1)">
+<path id="Pad_f0000"  d="M -20.0 -20.0 L -20.0 20.0 L -20.0 20.0 L -20.0 -20.0 L -20.0 -20.0 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Pad_f0001"  d="M 20.0 -20.0 L -20.0 -20.0 L -20.0 -20.0 L 20.0 -20.0 L 20.0 -20.0 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Pad_f0002"  d="M 20.0 20.0 L 20.0 -20.0 L 20.0 -20.0 L 20.0 20.0 L 20.0 20.0 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Pad_f0003"  d="M -20.0 20.0 L 20.0 20.0 L 20.0 20.0 L -20.0 20.0 L -20.0 20.0 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980;fill-opacity:1.0;fill-rule: evenodd"/>
+<circle cx="-14.0" cy="-1.6610712805231742e-11" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="-9.89949493659796" cy="-9.89949493662537" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="-2.926990793848695e-17" cy="-14.0" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="9.899494936613623" cy="-9.899494936609706" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="14.0" cy="5.536904268410581e-12" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="9.899494936605793" cy="9.899494936617538" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="-1.1072032179981761e-11" cy="14.0" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="-9.899494936621451" cy="9.899494936601878" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="-16.0" cy="-16.0" r="1.75" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="16.0" cy="-16.0" r="1.75" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="16.0" cy="16.0" r="1.75" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="-16.0" cy="16.0" r="1.75" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="-14.0" cy="-1.6610712805231742e-11" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<circle cx="-14.0" cy="-1.6610712805231742e-11" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<title>b'Pad'</title>
+</g>
+</svg>

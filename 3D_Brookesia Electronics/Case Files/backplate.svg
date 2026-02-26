@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="54.06000000000016mm" height="104.06mm" viewBox="0 0 54.06000000000016 104.06" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(15.880000,52.030000) scale(1,-1)">
+<path id="Shape2DView_nwe0000"  d="M 33.650000000000105 -51.49999999999997 L -11.350000000000037 -51.49999999999997 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0001"  d="M 33.65000000000011 -51.49999999999997 A 4 4 0 0 1 37.65 -47.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0002"  d="M -11.350000000000032 -51.49999999999997 A 4 4 0 0 0 -15.35 -47.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0003"  d="M 37.650000000000105 47.50000000000002 L 37.650000000000105 -47.49999999999998 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0004"  d="M -15.350000000000037 -47.49999999999997 L -15.350000000000037 47.50000000000003 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0005"  d="M 33.6500000000001 51.50000000000003 A 4 4 0 0 0 37.65 47.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0006"  d="M -15.350000000000042 47.50000000000003 A 4 4 0 0 0 -11.35 51.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0007"  d="M -11.350000000000037 51.50000000000002 L 33.650000000000105 51.50000000000002 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0008"  d="M 1.0999999999999608 41.94999999999997 L 12.59999999999996 41.94999999999997 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0009"  d="M 1.0999999999999608 32.599999999999966 L 1.0999999999999608 41.94999999999997 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0010"  d="M 12.59999999999996 41.94999999999997 L 12.59999999999996 32.599999999999966 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0011"  d="M 12.59999999999996 32.599999999999966 L 1.0999999999999606 32.599999999999966 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<circle cx="33.649999999999984" cy="-47.509999999999906" r="2.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="-11.350000000000014" cy="-47.509999999999906" r="2.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="-11.350000000000014" cy="47.51000000000009" r="2.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="33.649999999999984" cy="47.51000000000009" r="2.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Shape2DView'</title>
+</g>
+</svg>
